@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   description:
     "Servicios profesionales de consultoría empresarial, evaluación de proyectos y librería especializada. Tu socio estratégico para el éxito.",
   generator: "v0.app",
+  icons: {
+    icon: "/LOGO-NEITHAN - SIN FONDO.png",
+  },
 }
 
 export default function RootLayout({

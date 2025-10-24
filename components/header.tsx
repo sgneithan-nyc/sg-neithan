@@ -66,7 +66,7 @@ export function Header() {
             <div className="flex items-center gap-3">
               <div className="w-12 h-12 rounded-xl overflow-hidden flex-shrink-0">
                 <img 
-                  src="/LOGO_NEITHAN.jpeg" 
+                  src="/LOGO-NEITHAN.png" 
                   alt="N&C Servicios Generales" 
                   className="w-full h-full object-cover"
                 />
