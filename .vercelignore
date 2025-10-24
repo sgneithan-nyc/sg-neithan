@@ -1,0 +1,11 @@
+.git
+.gitignore
+.idea
+.vscode
+*.md
+*.log
+.cache
+.next
+node_modules
+public/LOGO_NEITHAN.jpeg
+.env*.local
